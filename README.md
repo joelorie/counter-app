@@ -6,11 +6,7 @@
 
 ## Live URL 1:-
 
-> [Counter App](https://arnab-datta.github.io/counter-app/)
-
-## Live URL 2:-
-
-> [Counter App](https://obscure-waters-60500.herokuapp.com)
+> [Counter App](https://counter-app-enhx.onrender.com/)
 
 **OR your can do the following to run in your local machine**
 
